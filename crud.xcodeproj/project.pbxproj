@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					FA63A4A81DA9567900AAB5BD = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = C3R388JXYS;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -270,6 +271,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = C3R388JXYS;
 				INFOPLIST_FILE = crud/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.alusorgames.crud;
@@ -281,6 +283,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = C3R388JXYS;
 				INFOPLIST_FILE = crud/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.alusorgames.crud;
